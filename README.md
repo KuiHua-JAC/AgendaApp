@@ -20,6 +20,10 @@ To see if they are completed and/or overdue
 ## How to run
 For this app, since it was our first WPF app, we don't have an installer created for it, so in order to run it, you have to open the solution and run compile then run it using Visual Studio on Windows.
 
+## How to use
+You can add new tasks by double-clicking on a square in the agenda. This will open a new task window where you can input task details. You can see your reports by clicking on the report section and of course you can load and save your agend by choosing the correct option
+at the bottom of the screen
+
 ## Technologies used
 Storing the data is done via CSV when the app is offline, otherwise everything is kept in memory.
 C#, WPF were used for the project.
